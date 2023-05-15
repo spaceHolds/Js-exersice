@@ -1,6 +1,6 @@
-# DUT Front-End Dev JS Exercises
+#Front-End JS Exercises
 
-**_Riabko Yuliia ISD-12_**
+**_Chernev_Ivan_Isd-12_**
 
 **Exercise 1**
 
